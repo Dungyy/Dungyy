@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dungyy 
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning python/flask
-- 💞️ I’m looking to collaborate on Anything
+- 👋 Hi, I’m Erick but my friends call me @Dungyy 
+- 👀 I’m interested in  Python Programming 
+- 🌱 I’m currently learning Python/Flask Programming
+- 💞️ I’m ready to collaborate on Anybody to build the next big app
 - 📫 How to reach me erickmunoz13@gmail.com
 
 <!---
