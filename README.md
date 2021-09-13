@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erick but my friends call me @Dungyy 
-- 👀 I’m interested in  Python Programming 
-- 🌱 I’m currently learning Python/Flask Programming
+- 👀 I’m interested in Full-Stack Programming 
+- 🌱 I’m currently learning JavaScript/Django
 - 💞️ I’m ready to collaborate on Anybody to build the next big app
 - 📫 How to reach me erickmunoz13@gmail.com
 
