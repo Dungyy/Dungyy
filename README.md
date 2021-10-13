@@ -3,7 +3,7 @@
 
 <img align="right" src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png"/>
 
-<h3> 👨🏻‍💻 &nbsp;Alittle About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy. I am a Father of 2 and Husband of 1.<br>
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
@@ -31,7 +31,7 @@
 
 <a href="https://github.com/dungyy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
 </a>
 
 <br/>
