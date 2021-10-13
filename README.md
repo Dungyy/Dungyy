@@ -3,11 +3,11 @@
 <img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy <br>
+- 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy. I am a Father of 2 and Husband of 1.<br>
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
-- 💼 &nbsp; I’m currently working on Full Stack Development projects.<br>
-- 🌱 &nbsp; I’m currently learning MERN Stack & Learning more about Backend Architectures and Frontend Developement.
+- 💼 &nbsp; I’m currently learning MERN Stack & Learning more about Backend Architectures and Frontend Developement.<br>
+- 🌱 &nbsp; My hobbies are Soccer, Basketball, Car Mechanic, Plumber, Home Remodeling, I'm really a jack of all trades
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
