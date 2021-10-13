@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h2 align="center"> I'm Erick Munoz.</h2>
 
-<img align="center" src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
+<img align="center"                                            src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
 <h3> 👨🏻‍💻 &nbsp;Alittle About Me </h3>
 - 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy. I am a Father of 2 and Husband of 1.<br>
@@ -52,4 +52,3 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
   
-           ❤ From [Dungy](https://www.github.com/Dungyy)
