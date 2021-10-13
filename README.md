@@ -1,13 +1,13 @@
-<img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
-
 <h2> Hey there!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I'm Erick Munoz.</h2>
+
+<img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy <br>
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
-- 💼 &nbsp; Working as a Freelancer<br>
-- 🌱 &nbsp; I’m currently learning MERN Stack
+- 💼 &nbsp; I’m currently working on Full Stack Development projects.<br>
+- 🌱 &nbsp; I’m currently learning MERN Stack & Learning more about Backend Architectures and Frontend Developement.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
