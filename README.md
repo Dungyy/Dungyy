@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/dungyy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
+  <img width="30%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
+  <img width="30%" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
 </a>
 
 <br/>
