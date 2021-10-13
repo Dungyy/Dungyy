@@ -2,7 +2,7 @@
 
 <img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Alittle About Me </h3>
 - 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy. I am a Father of 2 and Husband of 1.<br>
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
