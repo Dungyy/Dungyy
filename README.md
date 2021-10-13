@@ -48,3 +48,6 @@
 </p>
 
 ❤ From [Dungy](https://github.com/Dungyy)
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+</p>
