@@ -47,7 +47,7 @@
 <a href="mailto:erickmunoz13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Erickmunoz13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-❤ From [Dungy](https://github.com/Dungyy)
 <p align="center">
+❤ From [Dungy](https://github.com/Dungyy
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
