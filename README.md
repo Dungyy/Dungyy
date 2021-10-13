@@ -1,4 +1,4 @@
-<h2> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I'm Erick Munoz.</h2>
+<h2 align="center"> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I'm Erick Munoz.</h2>
 
 <img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
@@ -48,6 +48,6 @@
 </p>
 
 <p align="center">
-❤ From [Dungy](https://github.com/Dungyy
+❤ From [Dungy](https://github.com/Dungyy)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
