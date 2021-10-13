@@ -8,7 +8,7 @@
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
 - 💼 &nbsp; I’m currently learning MERN Stack & Learning more about Backend Architectures and Frontend Developement.<br>
-- 🌱 &nbsp; My hobbies are Soccer, Basketball, Football, Car Mechanic & spending time with my family!
+- 🌱 &nbsp; My hobbies are Soccer, Basketball, Football, Hikes & spending time with my family!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/dungyy">
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
-  <img width="40%" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
+  <img width="45%" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
 </a>
 
 <br/>
