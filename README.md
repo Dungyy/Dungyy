@@ -1,4 +1,4 @@
-<img src="http://erickk.pythonanywhere.com/static/iPortfolio/assets/img/erick-img%20(2).jpg">
+<img src="http://dungy.pythonanywhere.com/static/bootstrap/assets/img/dungy.JPG">
 
 <h2> Hey there! I'm Erick Munoz.</h2>
 
@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://dungy.pythonanywhere.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://dungy.pythonanywhere.com/"><img alt="Website" src="https://img.shields.io/badge/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dungy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/codewithdungy"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-adityavs__-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:erickmunoz13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
