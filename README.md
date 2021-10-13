@@ -36,7 +36,7 @@
 
 <br/>
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me👇 </h3>
 
 <p align="center">
 <a href="http://dungy.pythonanywhere.com/"><img alt="Website" src="https://img.shields.io/badge/www.dungy.com-blue?style=flat-square&logo=google-chrome"></a><br>
