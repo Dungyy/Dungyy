@@ -1,6 +1,6 @@
 <img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
-<h2> Hey there! I'm Erick Munoz.</h2>
+<h2> Hey there!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I'm Erick Munoz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy <br>
