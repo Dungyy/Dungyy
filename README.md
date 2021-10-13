@@ -1,4 +1,4 @@
-<h2> Hey there!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I'm Erick Munoz.</h2>
+<h2> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I'm Erick Munoz.</h2>
 
 <img src="http://www.simpleimageresizer.com/_uploads/photos/8a08eed2/dungy.img-removebg-preview_39.png">
 
@@ -7,7 +7,7 @@
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
 - 💼 &nbsp; I’m currently learning MERN Stack & Learning more about Backend Architectures and Frontend Developement.<br>
-- 🌱 &nbsp; My hobbies are Soccer, Basketball, Car Mechanic, Plumber, Home Remodeling, I'm really a jack of all trades
+- 🌱 &nbsp; My hobbies are Soccer, Basketball, Football, Car Mechanic & spending time with my family!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
