@@ -3,10 +3,10 @@
 <h2> Hey there! I'm Erick Munoz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 👋 &nbsp; Hi, I’m Erick but my friends call me Dungyy <br>
-- 🤔 &nbsp; i Love Exploring new technologies and developing software solutions and quick hacks.<br>
-- 🎓 &nbsp; Currently Studying Web Develoment.<br>
-- 💼 &nbsp; Working as a Freelancer, Connecting with clients.<br>
+- 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy <br>
+- 🤔 &nbsp; I Love Exploring new technologies and developing software solutions and quick hacks.<br>
+- 🎓 &nbsp; Currently in Web Develoment BootCamp 2021.<br>
+- 💼 &nbsp; Working as a Freelancer<br>
 - 🌱 &nbsp; I’m currently learning MERN Stack
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -47,4 +47,4 @@
 <a href="mailto:erickmunoz13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Erickmunoz13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Dungy](https://github.com/Dungyy)
+❤ From [Dungy](https://github.com/Dungyy)
