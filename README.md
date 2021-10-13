@@ -3,10 +3,10 @@
 <h2> Hey there! I'm Erick Munoz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 👋 &nbsp; Hi, I’m Erick but my friends call me Dungyy 
-- 🤔 &nbsp; i Love Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently Studying Web Develoment.
-- 💼 &nbsp; Working as a Freelancer, Connecting with clients.
+- 👋 &nbsp; Hi, I’m Erick but my friends call me Dungyy <br>
+- 🤔 &nbsp; i Love Exploring new technologies and developing software solutions and quick hacks.<br>
+- 🎓 &nbsp; Currently Studying Web Develoment.<br>
+- 💼 &nbsp; Working as a Freelancer, Connecting with clients.<br>
 - 🌱 &nbsp; I’m currently learning MERN Stack
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -32,8 +32,8 @@
 <br/>
 
 <a href="https://github.com/dungyy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
 </a>
 
 <br/>
