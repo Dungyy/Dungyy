@@ -39,7 +39,7 @@
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me👇 </h3>
 
 <p align="center">
-<a href="www.erickmunoz.tech"><img alt="Porfolio Website" src="https://img.shields.io/badge/www.dungy.com-blue?style=flat-square&logo=google-chrome"></a><br>
+<a href="http://www.erickmunoz.tech"><img alt="Porfolio Website" src="https://img.shields.io/badge/www.erickmunoz.tech-blue?style=flat-square&logo=google-chrome"></a><br>
 <a href="https://www.linkedin.com/in/dungy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ErickMunoz-blue?style=flat-square&logo=linkedin"></a><br>
 <a href="https://twitter.com/codewithdungy"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-codewithDungy-blue?style=flat-square&logo=twitter"></a><br>
 <a href="mailto:erickmunoz13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Erickmunoz13@gmail.com-blue?style=flat-square&logo=gmail"></a>
