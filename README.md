@@ -29,10 +29,10 @@
 
 <br/>
 
-<a href="https://github.com/dungyy">
+<!-- <a href="https://github.com/dungyy">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dungyy&show_icons=true" />
   <img width="45%" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungyy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
