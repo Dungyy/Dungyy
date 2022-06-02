@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h2 align="center"> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 <h2 align="center"> I'm Erick Munoz.</h2>
 
 
