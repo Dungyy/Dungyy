@@ -6,7 +6,7 @@
 <h3>About Me </h3>
 - 👋 &nbsp; Hi, I’m Erick but my friends call me Dungy. I am a Father of 2 and Husband of 1.<br>
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions for quick hacks.<br>
-- 🎓 &nbsp; Currently in Web Development BootCamp 2021.<br>
+- 🎓 &nbsp; Currently learning Cyber Security | Penetration testing <br>
 - 💼 &nbsp; Specialising in ReactJS with MongoDB, ExpressJS and NodeJS.<br>
 - 🌱 &nbsp; My hobbies are Soccer, Basketball, Football, Hikes & spending time with my family!
 
